@@ -20,7 +20,7 @@
 * Task analysis.
 * Organize tasks under categories. Editing.
 
-## # Installation & How To Use
+## Installation & How To Use
 
 ```bash
 # Clone this repository
